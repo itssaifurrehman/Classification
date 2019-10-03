@@ -1,2 +1,1 @@
-#README
-Exapmle of classificaiton using Logistic Regression in Python
+Example of classification using Logistic Regression in Python
